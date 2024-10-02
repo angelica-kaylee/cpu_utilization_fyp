@@ -4,6 +4,9 @@ This repository is a collection of Python code designed to analyze, preprocess, 
 For more details on the methodology, results, and implications of this project, please refer to the published paper:
 
 Paper Title: Optimizing Cloud Resource Utilization Through Machine Learning Forecasting
+
 Authors: Angelica Kaylee Wiesi, Joshua Samual, Mohammed Amin Almaiah, Aitizaz Ali, Tayseer Alkhdour, Romel Al-Ali, Theyazn H.H. Aldhyani and Rami Shehab
+
 Journal: Journal of Theoretical and Applied Information Technology
+
 Link: https://www.jatit.org/volumes/Vol102No17/7Vol102No17.pdf
