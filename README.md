@@ -1,9 +1,11 @@
 # cpu_utilization_fyp
 
 **Project Overview**
+
 This repository is a collection of Python code designed to analyze, preprocess, and predict cloud resource utilization, specifically CPU usage, using machine learning techniques. The code includes functions for data cleaning, normalization, feature engineering, model training, evaluation, and prediction. It is integrated into a Streamlit web application deployed on AWS EC2.
 
 **Features**
+
 Time Series Analysis: Forecasts CPU utilization trends.
 Feature Engineering: Includes Fourier transforms for seasonality detection, trend analysis, and anomaly detection.
 Exploratory Data Analysis (EDA): Visualizes CPU utilization trends.
