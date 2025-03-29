@@ -14,7 +14,7 @@ Feature Engineering: Includes Fourier transforms for seasonality detection, tren
 
 Exploratory Data Analysis (EDA): Visualizes CPU utilization trends.
 
-Machine Learning Model: Implements an LSTM-based deep learning model for CPU usage prediction.
+Machine Learning Model: Implement deep learning models for CPU usage prediction.
 
 Web Application: Built using Streamlit, allowing users to upload CSV data and obtain visual predictions.
 
